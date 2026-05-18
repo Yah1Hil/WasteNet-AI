@@ -3,7 +3,7 @@
 Real-time waste classification system for Israeli recycling bins.
 
 ## Project Overview
-- **Author:** Yahav Hilboch  
+- **Author:** Yahav Hil  
 - **School:** תיכון ע"ש יצחק בן-צבי, קריית אונו
 - **Mentor:** Saar Yakulov
 - **Subject:** תכנון ותכנות מערכות - 5 יח"ל
